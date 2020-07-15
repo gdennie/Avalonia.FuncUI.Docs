@@ -31,3 +31,11 @@ You can check these templates in detail here
 - [Basic Template]
 - [Full Template]
 - [Quickstart Template]
+
+Note, `-n NewApp` is optional and will create a project in the current directory with the project named for the directory. 
+
+Launch the application with the following:
+
+```
+dotnet run -p NewApp
+```
